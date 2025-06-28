@@ -3,62 +3,51 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
-{% include base_path %}
+You can download my full CV here:
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+👉 [**Download CV (PDF)**](/files/cv.pdf)
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+---
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## 🧑‍🎓 Education
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+**Ph.D. Aerospace Engineering**  
+*University of Illinois Urbana-Champaign, USA* (2021–2025, expected)  
+- Dissertation: *“Physics-aware thermochemical surrogates for next-generation aerothermal modeling”*  
+- Advisor: Prof. Marco Panesi  
+- Focus: High-speed flows, machine learning, surrogate modeling
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+**M.S. Aeronautical Engineering**  
+*Politecnico di Milano, Italy* (2017–2020)  
+- Thesis: *“Effects of non-equilibrium oxygen dissociation and vibrational relaxation in hypersonic flows”*
+
+**B.S. Aerospace Engineering**  
+*Politecnico di Milano, Italy* (2014–2017)
+
+---
+
+## 🧪 Research Focus
+
+- Reduced-order modeling (ROM) for plasma and nonequilibrium flows  
+- Physics-informed neural operators (PINOs)  
+- Scientific ML tools: PyCOMET, PyDeFT  
+- Surrogates for collisional-radiative systems
+
+---
+
+## 📍 Recent Experience
+
+- **Research Assistant**, UIUC (2021–present)  
+  - Developed thermochemical ROMs and PINOs with TensorFlow/Fortran coupling  
+  - Collaborated with NASA, DoD, LLNL
+
+- **Data Science Intern**, Lawrence Livermore National Lab (2024)  
+  - Domain decomposition ROMs for nonlinear PDEs  
+  - Top presenter at DSSI Summer Slam
+
+- **ML Researcher**, LLNL (2023)  
+  - Developed PyDeFT library for DFT-BOMD simulation
+
+More details in the [full PDF version](/files/cv.pdf).
