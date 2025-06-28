@@ -25,9 +25,9 @@ author:
   avatar           : "profile.png"
   name             : "Ivan Zanardi"
   pronouns         : "he/his"
-  bio              : "Ph.D. Candidate in Scientific Computing" # "Short biography for the left-hand sidebar"
+  bio              : "Ph.D. Candidate" # "Short biography for the left-hand sidebar"
   location         : "Illinois, US"
-  employer         : "University of Illinois Urbana-Champaign"
+  employer         : "University of Illinois"
   uri              : # URL
   email            : "zanardi3@illinois.edu" 
 
