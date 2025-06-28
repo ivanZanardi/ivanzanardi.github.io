@@ -6,8 +6,5 @@ permalink: /publication/2025-04-petrov-galerkin-model-reduction-for-thermochemic
 excerpt: ''
 date: 2025-04-10
 venue: 'Journal of Computational Physics'
-slidesurl: 
-paperurl: 
-doiurl: 'https://doi.org/10.1016/j.jcp.2025.113999'
-citation: 'I. Zanardi, A. Padovan, D. J. Bodony, and M. Panesi. &quot;Petrov‑Galerkin model reduction for thermochemical nonequilibrium gas mixtures&quot;. In: <i>Journal of Computational Physics</i> 533 (Apr. 2025), p. 113999. DOI: <a href="https://doi.org/10.1016/j.jcp.2025.113999">10.1016/j.jcp.2025.113999</a>'
+citation: 'I. Zanardi, A. Padovan, D. J. Bodony, and M. Panesi. &quot;Petrov‑Galerkin model reduction for thermochemical nonequilibrium gas mixtures&quot;. In: <i>Journal of Computational Physics</i> 533 (Apr. 2025), DOI: <a href="https://doi.org/10.1016/j.jcp.2025.113999">10.1016/j.jcp.2025.113999</a>'
 ---
