@@ -33,3 +33,9 @@ redirect_from:
   <a href="{{ base_path }}/files/resume_ivan_zanardi.pdf" class="btn btn--primary">Download CV as PDF</a>
   <a href="{{ base_path }}" class="btn btn--inverse">View Markdown CV</a>
 </div>
+
+
+
+<iframe src="/files/resume_ivan_zanardi.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+
+You can download a PDF copy of my CV [here](/files/resume_ivan_zanardi.pdf).
