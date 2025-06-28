@@ -21,7 +21,3 @@ My goal is to develop **fast, accurate, and physics-aware simulation tools** for
 - Open to roles in national labs or research-focused industry
 
 📄 [Download my CV](/files/cv.pdf)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
