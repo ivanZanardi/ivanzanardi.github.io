@@ -22,14 +22,14 @@ repository               : "ivanZanardi/ivanzanardi.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "photo_ivan.jpg"
   name             : "Ivan Zanardi"
   pronouns         : "he/his"
   bio              : "SciML Researcher" # "Short biography for the left-hand sidebar"
   location         : "Illinois, US"
   employer         : "University of Illinois"
   uri              : # URL
-  email            : "zanardi3@illinois.edu"
+  email            : "ivan.zanardi.us@gmail.com"
 
   # Academic websites
   academia         : # URL

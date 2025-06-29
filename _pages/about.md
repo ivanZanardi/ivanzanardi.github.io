@@ -12,7 +12,7 @@ Welcome! I’m **Ivan Zanardi**, a soon-to-graduate Ph.D. candidate in Aerospace
 
 My research focuses on developing **fast, physics-informed surrogate models** for nonequilibrium plasma flows, with potential applications in hypersonic reentry, fusion energy, and astrophysical flows. These problems involve stiff, high-dimensional dynamics that make direct simulation computationally intractable. I address this challenge by combining **physics-based modeling**, **reduced-order techniques**, and **scalable surrogate architectures**, bridging **algorithmic innovation and real-world engineering** to enable reliable, cost-effective simulations.
 
-Currently, I work on projects sponsored by or in collaboration with **LLNL**, **NASA**, and the **Department of Defense**, and my tools have been deployed in both **high-fidelity CFD workflows** and **data-driven modeling pipelines**.
+Currently, I work on projects sponsored by or in collaboration with **LLNL**, **NASA**, and the **DoD**, and my tools have been deployed in both **high-fidelity CFD workflows** and **data-driven modeling pipelines**.
 
 ---
 
