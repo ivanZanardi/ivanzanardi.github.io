@@ -1,5 +1,5 @@
 ---
-title: "Towards Efficient Simulations of Non‑Equilibrium Chemistry in Hypersonic Flows: A Physics‑Informed Neural Network Framework"
+title: 'Towards Efficient Simulations of Non‑Equilibrium Chemistry in Hypersonic Flows: A Physics‑Informed Neural Network Framework'
 collection: publications
 category: conferences
 permalink: /publication/2022-01-aiaa-scitech-2022-forum

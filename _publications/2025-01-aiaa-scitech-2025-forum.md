@@ -1,5 +1,5 @@
 ---
-title: "Petrov‑Galerkin Model Reduction for Thermochemical Nonequilibrium Gas Mixtures: Application to the N<sub>2</sub>+N+N System"
+title: 'Petrov‑Galerkin Model Reduction for Thermochemical Nonequilibrium Gas Mixtures: Application to the N<sub>2</sub>+N System'
 collection: publications
 category: conferences
 permalink: /publication/2025-01-aiaa-scitech-2025-forum

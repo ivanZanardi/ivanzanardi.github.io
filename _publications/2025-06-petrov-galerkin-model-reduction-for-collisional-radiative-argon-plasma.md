@@ -1,9 +1,8 @@
 ---
-title: "Petrov-Galerkin model reduction for collisional-radiative argon plasma"
+title: 'Petrov-Galerkin model reduction for collisional-radiative argon plasma'
 collection: publications
 category: preprints
 permalink: /publication/2025-06-petrov-galerkin-model-reduction-for-collisional-radiative-argon-plasma
-excerpt: ''
 date: 2025-06-24
 venue: 'arXiv'
 link: 'https://doi.org/10.48550/arXiv.2506.05483'

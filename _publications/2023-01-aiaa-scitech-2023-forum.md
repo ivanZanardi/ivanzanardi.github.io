@@ -1,5 +1,5 @@
 ---
-title: "Towards Efficient Simulations of Non‑Equilibrium Chemistry in Hypersonic Flows: Neural Operator‑Enhanced 1‑D Shock Simulations"
+title: 'Towards Efficient Simulations of Non‑Equilibrium Chemistry in Hypersonic Flows: Neural Operator‑Enhanced 1‑D Shock Simulations'
 collection: publications
 category: conferences
 permalink: /publication/2023-01-aiaa-scitech-2023-forum

@@ -1,5 +1,5 @@
 ---
-title: "Petrov-Galerkin model reduction for thermochemical nonequilibrium gas mixtures"
+title: 'Petrov-Galerkin model reduction for thermochemical nonequilibrium gas mixtures'
 collection: publications
 category: manuscripts
 permalink: /publication/2025-04-petrov-galerkin-model-reduction-for-thermochemical-nonequilibrium-gas-mixtures
