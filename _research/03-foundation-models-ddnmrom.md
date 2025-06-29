@@ -25,13 +25,14 @@ As a concrete realization of the DD-FEM concept, I augmented the [**domain-decom
 Y. Choi, S. W. Cheung, Y. Kim, P.‑H. Tsai, A. N. Diaz, **I. Zanardi**, S. W. Chung, D. M. Copeland, C. Kendrick, W. Anderson, T. Iliescu, and M.
 Heinkenschloss.  
 "Defining Foundation Models for Computational Science: A Call for Clarity and Rigor".  
-*arXiv preprint*, May 2025.  
+*arXiv preprint* (May 2025).  
 [DOI](https://doi.org/10.48550/arXiv.2505.22904){: .btn--research}
 
 I. Zanardi, A. N. Diaz, S. W. Chung, M. Panesi, and Y. Choi.  
 "Scalable nonlinear manifold reduced order model for dynamical systems".  
-*arXiv preprint*, Nov. 2024.  
+*arXiv preprint* (Nov. 2024).  
 [DOI](https://doi.org/10.48550/arXiv.2412.00507){: .btn--research}
+[NeurIPS](https://ml4physicalsciences.github.io/2024/){: .btn--research}
 
 ---
 

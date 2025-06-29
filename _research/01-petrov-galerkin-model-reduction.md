@@ -30,6 +30,6 @@ In: *Journal of Computational Physics 533* (Apr. 2025).
 
 **I. Zanardi**, A. Meini, A. Padovan, D. J. Bodony, and M. Panesi.  
 "Petrov‑Galerkin model reduction for collisional‑radiative argon plasma".  
-Preprint (June 2025).  
+*arXiv preprint* (June 2025).  
 [DOI](https://doi.org/10.48550/arXiv.2506.05483){: .btn--research}
 [GitHub](https://github.com/ivanZanardi/romar){: .btn--research}
