@@ -7,6 +7,8 @@ redirect_from:
   - /resume-json
 ---
 
+<!--
+
 {% include base_path %}
 
 <link rel="stylesheet" href="{{ base_path }}/assets/css/cv-style.css">
@@ -34,7 +36,7 @@ redirect_from:
   <a href="{{ base_path }}" class="btn btn--inverse">View Markdown CV</a>
 </div>
 
-
+-->
 
 <iframe src="/files/resume_ivan_zanardi.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
