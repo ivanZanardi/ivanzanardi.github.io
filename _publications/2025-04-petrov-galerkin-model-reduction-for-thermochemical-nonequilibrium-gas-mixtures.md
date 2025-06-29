@@ -1,7 +1,7 @@
 ---
 title: "Petrov-Galerkin model reduction for thermochemical nonequilibrium gas mixtures"
 collection: publications
-category: journal
+category: journals
 permalink: /publication/2025-04-petrov-galerkin-model-reduction-for-thermochemical-nonequilibrium-gas-mixtures
 date: 2025-04-10
 venue: 'Journal of Computational Physics'
