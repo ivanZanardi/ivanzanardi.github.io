@@ -43,7 +43,7 @@ In: *AIAA SCITECH 2024 Forum*, American Institute of Aeronautics and Astronautic
 
 ---
 
-## 🛠️ Scientific Softwares
+## 💻 Scientific Softwares
 
 **PyCOMET**  
 A modular, TensorFlow-based platform for physics-informed scientific machine learning. It enables rapid prototyping of PINO models, with:
