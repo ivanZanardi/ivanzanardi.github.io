@@ -12,7 +12,7 @@ DD-FEM builds on principles long valued in numerical physics—modularity, local
 
 ### 🧱 From Theory to Implementation: DD NM-ROMs
 
-As a concrete realization of the DD-FEM concept, I augmented the [**domain-decomposed nonlinear manifold reduced-order model (DD NM-ROM)**](https://doi.org/10.1016/j.cma.2024.116943). This framework uses shallow, sparse autoencoders trained on subdomains (e.g., 2×2 patches) and composes them into full-domain solvers via algebraic constraints on interface states. It avoids the scalability bottlenecks of monolithic training while retaining physical structure.
+As a concrete realization of the DD-FEM concept, I augmented the [**domain-decomposition nonlinear manifold reduced-order model (DD NM-ROM)**](https://doi.org/10.1016/j.cma.2024.116943). This framework uses shallow, sparse autoencoders trained on subdomains (e.g., 2×2 patches) and composes them into full-domain solvers via algebraic constraints on interface states. It avoids the scalability bottlenecks of monolithic training while retaining physical structure.
 
 - Achieves **700× speedups** with <1% error
 - Enables training on small domains and inference on large (e.g., 10×10) patched domains
