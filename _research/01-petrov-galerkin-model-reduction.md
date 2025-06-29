@@ -1,6 +1,6 @@
 ---
 title: "Petrov-Galerkin Model Reduction"
-excerpt: "Using PINOs to accelerate nonequilibrium plasma flow simulations<br/><img src='/images/rom/2d_plasma.pdf'>"
+excerpt: "<img src='/images/rom/2d_plasma.pdf'>"
 collection: portfolio
 ---
 
@@ -23,11 +23,13 @@ In my work, CoBRAS is adapted specifically for StS nonequilibrium plasmas by fir
 ## 📚 Selected Publications
 
 **I. Zanardi**, A. Padovan, D. J. Bodony, and M. Panesi.  
-"Petrov‑Galerkin model reduction for thermochemical nonequilibrium gas mixtures". In: *Journal of Computational Physics 533* (Apr. 2025).  
+"Petrov‑Galerkin model reduction for thermochemical nonequilibrium gas mixtures".  
+In: *Journal of Computational Physics 533* (Apr. 2025).  
 [DOI](https://doi.org/10.1016/j.jcp.2025.113999){: .btn--research}
 [GitHub](https://github.com/ivanZanardi/ronek){: .btn--research}
 
 **I. Zanardi**, A. Meini, A. Padovan, D. J. Bodony, and M. Panesi.  
-"Petrov‑Galerkin model reduction for collisional‑radiative argon plasma". Preprint (June 2025).
+"Petrov‑Galerkin model reduction for collisional‑radiative argon plasma".  
+Preprint (June 2025).  
 [DOI](https://doi.org/10.48550/arXiv.2506.05483){: .btn--research}
 [GitHub](https://github.com/ivanZanardi/romar){: .btn--research}
