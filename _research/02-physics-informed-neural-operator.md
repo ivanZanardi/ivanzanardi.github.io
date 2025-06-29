@@ -1,7 +1,7 @@
 ---
 title: "Physics-Informed Neural Operators (PINOs)"
 excerpt: "<img src='/images/pino/02.pdf'>"
-collection: portfolio
+collection: research
 ---
 
 [**Physics-informed neural operators (PINOs)**](https://arxiv.org/abs/2111.03794) are a class of machine learning models designed to learn **mappings between function spaces**, unlike conventional neural networks which learn mappings between finite-dimensional vector spaces. While classical NNs approximate input-output relationships at discrete points, **neural operators learn how entire input functions map to output functions**, making them well-suited to modeling physical systems described by differential equations. PINOs go further by **embedding governing physical laws directly into the architecture or loss function**, enforcing residuals from PDEs or ODEs during training. This physics-constrained approach improves generalization, reduces data requirements, and ensures **physically consistent predictions**, even under extrapolation regimes.

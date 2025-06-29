@@ -1,7 +1,7 @@
 ---
 title: "Petrov-Galerkin Model Reduction"
 excerpt: "<img src='/images/rom/2d_plasma.pdf'>"
-collection: portfolio
+collection: research
 ---
 
 [**Projection-based reduced-order models (ROMs)**](https://doi.org/10.1137/130932715) are a powerful tool for accelerating simulations of high-dimensional dynamical systems by projecting the governing equations onto a carefully chosen low-dimensional subspace. This reduces computational cost significantly while retaining the system's essential dynamics.
