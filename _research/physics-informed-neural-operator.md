@@ -14,7 +14,7 @@ Accurately resolving these operators requires solving high-dimensional, nonlinea
 
 ---
 
-#### 🔬 Physics-Embedded Learning
+### 🔬 Physics-Embedded Learning
 
 In this context, PINOs are not simply data-driven regressors — they function as **physics-preserving surrogates**. The models are explicitly designed to:
 - Enforce **mass and energy conservation laws**
@@ -27,17 +27,17 @@ This is not achieved by merely augmenting the loss function with physics-based r
 
 ## 📚 Selected Publications
 
-**I. Zanardi**, S. Venturi, and M. Panesi
-"Adaptive physics‑informed neural operator for coarse‑grained non‑equilibrium flows"
-In: *Scientific Reports 13* (Sept. 2023), [DOI](https://doi.org/10.1038/s41598-023-41039-y){: .btn--research}
+**I. Zanardi**, S. Venturi, and M. Panesi.
+"Adaptive physics‑informed neural operator for coarse‑grained non‑equilibrium flows".
+In: *Scientific Reports 13* (Sept. 2023), [DOI](https://doi.org/10.1038/s41598-023-41039-y){: .btn--research}.
 
-**I. Zanardi**, S. Venturi, and M. Panesi
-"Hybrid matrix exponential-based neural operator for stiff thermochemical kinetics"
-In preparation
+**I. Zanardi**, S. Venturi, and M. Panesi.
+"Hybrid matrix exponential-based neural operator for stiff thermochemical kinetics".
+In preparation.
 
-**I. Zanardi**, S. Venturi, and M. Panesi
-"Towards Efficient Simulations of Non‑Equilibrium Chemistry in Hypersonic Flows: Application of Neural Operators in Multidimensional CFD Simulations"
-In: *AIAA SCITECH 2024 Forum*, American Institute of Aeronautics and Astronautics (Jan. 2024), [DOI](https://doi.org/10.2514/6.2024-0773){: .btn--research}
+**I. Zanardi**, S. Venturi, and M. Panesi.
+"Towards Efficient Simulations of Non‑Equilibrium Chemistry in Hypersonic Flows: Application of Neural Operators in Multidimensional CFD Simulations".
+In: *AIAA SCITECH 2024 Forum*, American Institute of Aeronautics and Astronautics (Jan. 2024), [DOI](https://doi.org/10.2514/6.2024-0773){: .btn--research}.
 
 ---
 
@@ -51,7 +51,7 @@ A modular, TensorFlow-based platform for physics-informed scientific machine lea
 
 [GitHub](https://github.com/ivanZanardi/pycomet){: .btn--research}
 
-**TF2**
+**TF2**  
 TF2 enables direct deployment of TensorFlow models in C++/Fortran codes without TensorFlow installation. It allows PINOs to be embedded into legacy CFD solvers for fast, physics-informed surrogate inference during reactive flow simulations.
 
 [GitHub](https://github.com/ivanZanardi/tf2){: .btn--research}
