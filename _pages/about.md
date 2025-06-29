@@ -7,37 +7,27 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<!-- 
-Welcome! I am a data scientist applying machine learning tools and causal
-inference techniques to remote sensing data. I am an affiliated
-researcher with the [Data-driven Analysis of Peace Project](https://dapp-lab.org)
-and a research collaborator with the 
-[Research on International Policy Implementation Lab](https://bridgingthegapproject.org/ripil).
 
-I earned my PhD in Political Science from the
-[University *of* North Carolina *at* Chapel Hill](https://www.unc.edu) and my
-BA in Political Science from [Haverford College](https://www.haverford.edu).
-My academic work has been [published](publications) in the
-*American Political Science Review*, *International Studies Quarterly*,
-*Conflict Management and Peace Science*, and
-*Political Science Research and Methods*, among other outlets. This
-[research](research) explores the causes and consequences of political violence
-using a broad variety of methods such as latent variable models, geospatial
-analysis, and big data. I have [taught](teaching) quantitative methodology and
-international relations, and am a certified instructor with
-[The Carpentries](https://carpentries.org).
--->
-I’m **Ivan Zanardi**, a PhD candidate in Aerospace Engineering at the University of Illinois Urbana-Champaign. My research focuses on combining machine learning and model reduction to accelerate and enhance simulations of high-speed, reactive, and plasma flows.
+Welcome! I’m **Ivan Zanardi**, a soon-to-graduate Ph.D. candidate in Aerospace Engineering at the University of Illinois Urbana-Champaign, working at the intersection of **applied mathematics**, **machine learning**, and **plasma physics**. I earned my Bachelor's and Master's degrees in Aerospace Engineering from Politecnico di Milano in 2017 and 2020, respectively.
 
-My goal is to develop **fast, accurate, and physics-aware simulation tools** for real-world engineering problems, especially in hypersonics and aerothermodynamics.
+My research focuses on developing **fast, physics-informed surrogate models** for nonequilibrium plasma flows, with potential applications in hypersonic reentry, fusion energy, and astrophysical flows. These problems involve stiff, high-dimensional dynamics that make direct simulation computationally intractable. I address this challenge by combining **physics-based modeling**, **reduced-order techniques**, and **scalable surrogate architectures**, bridging **algorithmic innovation and real-world engineering** to enable reliable, cost-effective simulations.
 
-### 🎯 Research Interests
-- Surrogate modeling of thermochemical systems (e.g., **MENO** framework)
-- Physics-informed neural operators (PINOs)
-- GPU-accelerated integrators (e.g., **BDF with autodiff**)
-- Operator learning and reduced-order modeling for multiphysics systems
+Currently, I work on projects sponsored by or in collaboration with **LLNL**, **NASA**, and the **Department of Defense**, and my tools have been deployed in both **high-fidelity CFD workflows** and **data-driven modeling pipelines**.
 
-### 📍 Currently
-- Working in Prof. Marco Panesi's group at [CHESS](https://chess.aerospace.illinois.edu/)
-- Presenting research to NASA, DoD, and attending ML4PS @ NeurIPS
-- Open to roles in national labs or research-focused industry
+---
+
+## 🎯 Research Interests
+
+- Scientific machine learning
+- Surrogate and reduced-order modeling
+- Scientific computing
+- Nonequilibrium plasma physics  
+
+---
+
+## 📫 Let’s Connect
+
+I'm actively seeking postdoctoral or research scientist roles in applied machine learning and computational modeling—particularly in **national labs**, **startups**, or **research-driven industry**.
+
+👉 [View My CV](/files/resume_ivan_zanardi.pdf)  
+📬 Email: [ivan.zanardi.us@gmail.com]
