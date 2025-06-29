@@ -1,7 +1,7 @@
 ---
 title: "Information Theoretic Clustering for Coarse-grained Modeling of Non-equilibrium Gas Dynamics"
 collection: publications
-category: journal
+category: manuscripts
 permalink: /publication/2024-03-information-theoretic-clustering-for-coarse-grained-modeling-of-non-equilibrium-gas-dynamics
 excerpt: ''
 date: 2024-03-28

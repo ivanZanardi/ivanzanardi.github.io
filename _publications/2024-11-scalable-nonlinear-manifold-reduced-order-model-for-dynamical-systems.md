@@ -1,7 +1,7 @@
 ---
 title: "Scalable nonlinear manifold reduced order model for dynamical systems"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/2024-11-scalable-nonlinear-manifold-reduced-order-model-for-dynamical-systems
 date: 2024-11-30
 venue: 'NeurIPS'

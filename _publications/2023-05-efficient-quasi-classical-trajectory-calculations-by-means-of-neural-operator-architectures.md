@@ -1,7 +1,7 @@
 ---
 title: "Efficient quasi‑classical trajectory calculations by means of neural operator architectures"
 collection: publications
-category: journal
+category: manuscripts
 permalink: /publication/2023-05-efficient-quasi-classical-trajectory-calculations-by-means-of-neural-operator-architectures
 date: 2023-05-09
 venue: 'Physical Chemistry Chemical Physics'

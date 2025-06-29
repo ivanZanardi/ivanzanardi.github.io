@@ -1,7 +1,7 @@
 ---
 title: "Defining Foundation Models for Computational Science: A Call for Clarity and Rigor"
 collection: publications
-category: preprint
+category: preprints
 permalink: /publication/2025-05-defining-foundation-models-for-computational-science-a-call-for-clarity-and-rigor
 date: 2025-05-30
 venue: 'arXiv'
