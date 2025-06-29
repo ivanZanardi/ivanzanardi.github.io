@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Ivan Zanardi"
 title_separator          : "-"
 name                     : &name "Ivan Zanardi"
-description              : &description "Ph.D. Candidate in Scientific Computing"
+description              : &description "Ph.D. Candidate in Scientific Machine Learning"
 url                      : https://ivanzanardi.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ivanZanardi/ivanzanardi.github.io"
@@ -25,11 +25,11 @@ author:
   avatar           : "profile.png"
   name             : "Ivan Zanardi"
   pronouns         : "he/his"
-  bio              : "Ph.D. Candidate" # "Short biography for the left-hand sidebar"
+  bio              : "SciML Researcher" # "Short biography for the left-hand sidebar"
   location         : "Illinois, US"
   employer         : "University of Illinois"
   uri              : # URL
-  email            : "zanardi3@illinois.edu" 
+  email            : "zanardi3@illinois.edu"
 
   # Academic websites
   academia         : # URL
@@ -82,10 +82,10 @@ publication_category:
     title: 'Books'
   manuscripts:
     title: 'Journal Articles'
-  conferences:
-    title: 'Conference Papers'
   preprints:
     title: 'Preprints'
+  conferences:
+    title: 'Conference Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
