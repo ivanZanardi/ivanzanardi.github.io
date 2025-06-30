@@ -29,5 +29,5 @@ Currently, I work on projects sponsored by or in collaboration with **LLNL**, **
 
 I'm actively looking for postdoc or research scientist roles in applied machine learning and computational modeling—ideally in **national labs**, **startups**, or **research-driven industry**. If you're working on something exciting, I'd love to connect!
 
-👉 [View My CV](/files/resume_ivan_zanardi.pdf)  
+👉 [View my resume](/files/resume_ivan_zanardi.pdf)  
 📬 Email: [{{ site.author.email }}](mailto:{{ site.author.email }})

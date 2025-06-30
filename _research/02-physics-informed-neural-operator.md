@@ -4,24 +4,22 @@ excerpt: "<img src='/images/pino/02.pdf'>"
 collection: research
 ---
 
-[**Physics-informed neural operators (PINOs)**](https://arxiv.org/abs/2111.03794) are a class of machine learning models designed to learn **mappings between function spaces**, unlike conventional neural networks which learn mappings between finite-dimensional vector spaces. While classical NNs approximate input-output relationships at discrete points, **neural operators learn how entire input functions map to output functions**, making them well-suited to modeling physical systems described by differential equations. PINOs go further by **embedding governing physical laws directly into the architecture or loss function**, enforcing residuals from PDEs or ODEs during training. This physics-constrained approach improves generalization, reduces data requirements, and ensures **physically consistent predictions**, even under extrapolation regimes.
+[**Physics-informed neural operators (PINOs)**](https://arxiv.org/abs/2111.03794) are a class of machine learning models designed to learn **mappings between function spaces**, unlike conventional neural networks which learn mappings between finite-dimensional vector spaces. While classical NNs approximate input-output relationships at discrete points, **neural operators learn how entire input functions map to output functions**, making them well-suited to modeling physical systems described by differential equations. PINOs go further by **embedding governing physical laws directly into the architecture or loss function**, enforcing residuals from PDEs or ODEs during training. This physics-constrained approach improves generalization, reduces data requirements, and ensures **physically consistent predictions**.
 
 ---
 
-My research applies PINOs to the **surrogate modeling of thermochemical reactive operators** in nonequilibrium, multicomponent plasma flows. These systems involve **stiff, coupled ODEs** that govern species population dynamics and energy exchanges via collisional-radiative kinetics and thermochemical nonequilibrium. Conventionally, these source terms are integrated using **implicit ODE solvers** at every grid point — a process that is accurate but **extremely costly** and limits simulation scalability.
-
-Accurately resolving these operators requires solving high-dimensional, nonlinear systems repeatedly, making the approach **computationally prohibitive** in high-fidelity 2D or 3D simulations. PINOs allow us to build **fast surrogates** that approximate these operators with high accuracy while embedding the correct physical behavior. They offer **orders-of-magnitude speedups** and enable tight coupling with unsteady CFD solvers, unlocking new capabilities for real-time simulations.
+My research applies PINOs to the **surrogate modeling of thermochemical reactive operators** in nonequilibrium, multicomponent plasma flows. These systems are governed by **stiff, coupled ODEs** describing species population dynamics and energy exchanges due to collisional-radiative kinetics and thermochemical nonequilibrium. Conventionally, such source terms are integrated using **implicit ODE solvers** at every grid point—a method that is accurate but **computationally intensive** and limits scalability in high-fidelity 2D and 3D simulations. PINOs address this by learning **fast surrogates** that approximate these operators with high accuracy while preserving key physical structure. They offer **orders-of-magnitude speedups** and enable tight coupling with unsteady CFD solvers, unlocking new capabilities for real-time simulations.
 
 ---
 
 ### 🔬 Physics-Embedded Learning
 
-In this context, PINOs are not simply data-driven regressors — they function as **physics-preserving surrogates**. The models are explicitly designed to:
+In this context, PINOs are not simply data-driven regressors—they function as **physics-preserving surrogates**. The models are explicitly designed to:
 - Enforce **mass and energy conservation laws**
 - Maintain **positivity** of species concentrations and temperatures
 - Preserve the **equilibrium distribution function** of species' quantum energy levels
 
-This is not achieved by merely augmenting the loss function with physics-based residuals (e.g., from ODE constraints). Instead, the proposed PINO architectures **embed the governing equations directly into the network design itself**, yielding substantial improvements in accuracy while ensuring **physically consistent behavior** — even under strong extrapolation regimes.
+This is not achieved by merely augmenting the loss function with physics-based residuals (e.g., from ODE constraints). Instead, the proposed PINO architectures **embed the governing equations directly into the network design itself**, yielding substantial improvements in accuracy while ensuring **physically consistent behavior**—even under strong extrapolation regimes.
 
 ---
 

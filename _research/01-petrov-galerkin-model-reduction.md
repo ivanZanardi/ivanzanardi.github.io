@@ -12,7 +12,7 @@ Traditional ROMs typically rely on **orthogonal (Galerkin) projection** using en
 
 ### 🔬 Application to Nonequilibrium Plasmas
 
-Simulating **nonequilibrium thermochemical plasma flows** poses significant challenges due to the **high dimensionality** introduced by detailed, state-specific kinetics. While full state-to-state (StS) models provide the highest physical accuracy, they are computationally intractable when embedded directly into multidimensional CFD solvers.
+Simulating **nonequilibrium thermochemical plasma flows** poses significant challenges due to the **high dimensionality** introduced by detailed, state-specific kinetics. While full [state-to-state (StS)](https://doi.org/10.1016/S0301-0104(99)00213-X) models provide the highest physical accuracy, they are computationally intractable when embedded directly into multidimensional CFD solvers.
 
 To address this, I developed a reduced-order modeling strategy based on an extension of the [**CoBRAS**](https://doi.org/10.1137/130932715) framework — a method that constructs **oblique projection operators** for nonlinear systems by balancing statistical information from both forward and adjoint trajectories.
 

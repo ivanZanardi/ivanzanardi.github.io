@@ -4,18 +4,18 @@ excerpt: "<img src='/images/dd_fem/burgers.png'>"
 collection: research
 ---
 
-Recent advances in machine learning have opened the door to **foundation models** for scientific computing—general-purpose, physics-grounded models designed to scale across problems, geometries, and applications. Drawing inspiration from traditional finite element methods (FEM), we proposed a unifying framework called **Data-Driven FEM (DD-FEM)**, where trainable components are assigned to local subdomains and then composed through interface constraints. This **modular, compositional architecture** enables generalization to arbitrary global configurations, reuse across problems, and consistent physical grounding.
+Recent advances in machine learning have opened the door to [**foundation models** for scientific computing](https://doi.org/10.48550/arXiv.2306.00258)—general-purpose, physics-grounded models designed to scale across problems, geometries, and applications. Drawing inspiration from traditional finite element methods (FEM), we proposed a unifying framework called **Data-Driven FEM (DD-FEM)**, where trainable components are assigned to local subdomains and then composed through interface constraints. This **modular, compositional architecture** enables generalization to arbitrary global configurations, reuse across problems, and consistent physical grounding.
 
-DD-FEM builds on principles long valued in numerical physics—modularity, locality, and generalizability—but reimagines them through the lens of machine learning. Rather than hand-coding the behavior of each element, DD-FEM learns local representations (e.g., within small subdomains) from data and governing physics, while maintaining compatibility and consistency at interfaces. This enables the construction of extensible, reusable surrogates that act as **scientific building blocks**—not just single-use approximators.
+DD-FEM builds on principles long valued in numerical physics—modularity, locality, and generalizability—but reimagines them through the lens of machine learning. Rather than hand-coding the behavior of each element, DD-FEM learns local representations (e.g., within small subdomains) from data and governing physics, while maintaining compatibility and consistency at interfaces. This enables the construction of extensible, reusable, and fast surrogates that act as **scientific building blocks**—not just single-use approximators.
 
 ---
 
 ### 🧱 From Theory to Implementation: DD NM-ROMs
 
-As a concrete realization of the DD-FEM concept, I augmented the [**domain-decomposition nonlinear manifold reduced-order model (DD NM-ROM)**](https://doi.org/10.1016/j.cma.2024.116943) framework. This approach uses shallow, sparse autoencoders trained on subdomains (e.g., 2×2 patches) and composes them into full-domain solvers via algebraic constraints on interface states. It avoids the scalability bottlenecks of monolithic training while retaining physical structure.
+As a concrete realization of the DD-FEM concept, I augmented the [**domain-decomposition nonlinear manifold reduced-order model (DD NM-ROM)**](https://doi.org/10.1016/j.cma.2024.116943) framework. This approach trains shallow, sparse autoencoders on small subdomains (e.g., 2×2 patches), which are then composed into larger, full-domain solvers using algebraic constraints on interface states. By decomposing both training and inference, the method avoids the scalability bottlenecks of monolithic architectures while preserving the system’s underlying physical structure.
 
 - Achieves **700× speedups** with <1% error
-- Enables training on small domains and inference on large (e.g., 10×10) patched domains
+- Enables fast training on small domains (e.g., 2×2) and inference on large (e.g., 10×10) patched domains
 - Supports composability, parallelism, and cross-problem generalization
 
 ---
