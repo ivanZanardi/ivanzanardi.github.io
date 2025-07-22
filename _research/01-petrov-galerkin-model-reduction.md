@@ -1,6 +1,6 @@
 ---
 title: "Petrov-Galerkin Model Reduction"
-excerpt: "<img src='/images/rom/2d_plasma.pdf'>"
+excerpt: "<img src='/images/rom/2d_plasma.jpg'>"
 collection: research
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Physics-Informed Neural Operators (PINOs)"
-excerpt: "<img src='/images/pino/02.pdf'>"
+excerpt: "<img src='/images/pino/02.jpg'>"
 collection: research
 ---
 
