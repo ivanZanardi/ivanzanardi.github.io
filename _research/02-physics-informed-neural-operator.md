@@ -31,8 +31,9 @@ In: *Scientific Reports 13* (Sept. 2023).
 [DOI](https://doi.org/10.1038/s41598-023-41039-y){: .btn--research}
 
 **I. Zanardi**, S. Venturi, and M. Panesi.  
-"Hybrid matrix exponential-based neural operator for stiff thermochemical kinetics".  
-In preparation.
+"MENO: Hybrid Matrix Exponential-based Neural Operator for Stiff ODEs. Application to Thermochemical Kinetics".  
+*arXiv preprint* (July 2025).  
+[DOI](https://doi.org/10.48550/arXiv.2507.14341){: .btn--research}
 
 **I. Zanardi**, S. Venturi, and M. Panesi.  
 "Towards Efficient Simulations of Non‑Equilibrium Chemistry in Hypersonic Flows: Application of Neural Operators in Multidimensional CFD Simulations".  
