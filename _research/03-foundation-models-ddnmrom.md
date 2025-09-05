@@ -1,6 +1,6 @@
 ---
 title: "Data-Driven Finite Element Method as Foundation Model"
-excerpt: "<img src='/images/dd_fem/burgers.png'>"
+excerpt: "<img src='/images/dd_fem/foundation_model.png'>"
 collection: research
 ---
 
